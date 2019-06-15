@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
   form_container: {
     // flex: 1,
     backgroundColor: '#FFF',
-    width: 500,
+    width: 350,
     marginTop: 30,
     padding: 15
   },
